@@ -1,0 +1,22 @@
+{
+  "name": "selector",
+  "version": "0.8.0",
+  "description": "Allows you to select/unselect an arbitrary list of components ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdillman/Selector.git"
+  },
+  "keywords": [
+    "Multiselect",
+  ],
+  "author": "Jonathan Dillman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdillman/Selector/issues"
+  },
+  "homepage": "https://github.com/jdillman/Selector#readme"
+}
