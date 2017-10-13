@@ -11,12 +11,16 @@
     "url": "git+https://github.com/jdillman/Selector.git"
   },
   "keywords": [
-    "Multiselect",
+    "Multiselect"
   ],
   "author": "Jonathan Dillman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jdillman/Selector/issues"
   },
-  "homepage": "https://github.com/jdillman/Selector#readme"
+  "homepage": "https://github.com/jdillman/Selector#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-plugin-react": "^7.4.0"
+  }
 }

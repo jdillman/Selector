@@ -5,10 +5,7 @@ Allows you to select/unselect any arbitrary components using the mouse or keyboa
 
 Example usage
 ```
-<Selector>
-  <span id="test">test</span>
-  <span id="foo">foo</span>
-  <span id="bar">bar</span>
-  <span id="baz">baz</span>
+<Selector selectedClass="selected">
+  <ImageList />
 </Selector>
 ```
